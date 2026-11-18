@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+work/
+submission.csv
+*.pdparams
+.ipynb_checkpoints/
